@@ -1,0 +1,24 @@
+{
+  "name": "recipesite",
+  "version": "1.0.0",
+  "description": "A Site to store and view all of my yummy recipes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sydneygroverr/RecipeSite.git"
+  },
+  "author": "Sydney Dawson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sydneygroverr/RecipeSite/issues"
+  },
+  "homepage": "https://github.com/sydneygroverr/RecipeSite#readme",
+  "dependencies": {
+    "express": "^4.21.0",
+    "knex": "^3.1.0",
+    "pg": "^8.13.0"
+  }
+}
